@@ -2,9 +2,9 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-⚙️ &nbsp;Frontend Developer @ IBM — trabajo en arquitecturas microfrontend, librerías de componentes y la integración con BFFs y APIs.\
-🛠 &nbsp;Angular 19+ es mi día a día, aunque el stack completo va desde el componente hasta el backend.\
-🌱 &nbsp;Últimamente metido en agentes de IA y Model Context Protocol.\
+⚙️ &nbsp;Frontend Developer @ IBM, especializado en arquitecturas microfrontend, librerías de componentes reutilizables e integración de BFFs y APIs.\
+🛠 &nbsp;Trabajo principalmente con Angular 19+, TypeScript y Node.js en proyectos de escala enterprise.\
+🌱 &nbsp;Explorando agentes de IA y Model Context Protocol.\
 ✉️ &nbsp;ampcastro1305@gmail.com
 
 <h2 align="center">🏅 &nbsp;Certifications</h2>
