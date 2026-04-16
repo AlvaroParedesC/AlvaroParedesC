@@ -48,7 +48,6 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-**Frontend**
 <p align="center">
   <img src="https://cdn.simpleicons.org/angular/white" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/white" width="40" />&nbsp;&nbsp;
@@ -58,20 +57,17 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/white" width="40" />
 </p>
 
-**Backend**
 <p align="center">
   <img src="https://cdn.simpleicons.org/nodedotjs/white" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express/white" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nestjs/white" width="40" />
 </p>
 
-**Base de datos**
 <p align="center">
   <img src="https://cdn.simpleicons.org/mongodb/white" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/white" width="40" />
 </p>
 
-**Herramientas**
 <p align="center">
   <img src="https://cdn.simpleicons.org/git/white" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/github/white" width="40" />&nbsp;&nbsp;
