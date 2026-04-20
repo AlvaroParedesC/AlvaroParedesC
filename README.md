@@ -84,7 +84,7 @@
   <a href="mailto:ampcastro1305@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/white" width="35" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/PloiV" target="_blank">
+  <a href="https://github.com/AlvaroParedesC" target="_blank">
     <img src="https://cdn.simpleicons.org/github/white" width="35" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://alvaroparedes.vercel.app" target="_blank">
